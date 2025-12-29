@@ -1,5 +1,5 @@
 import random
-print('Welcome to your password')
+print('Welcome to your password generator')
 def passwordgenerator():
 
  string="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz!@#$%^&*()<>?"
